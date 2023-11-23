@@ -1,5 +1,7 @@
 # Placement Cell Web Application
 
+Access this project at [https://pear-helpful-trout.cyclic.app/](https://pear-helpful-trout.cyclic.app/)!
+
 This web application is designed for users/employees to manage student interviews and allocate students to company interviews. It's built using NodeJs, ExpressJs, MongoDB, EJS, and JavaScript.
 
 ## ⚙️ Functionality
@@ -33,17 +35,10 @@ This web application is designed for users/employees to manage student interview
 - **connect-mongo**
 - **cookie-parser**
 
+## Contributing
 
+If you'd like to contribute, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-ejs
-express
-express-ejs-layout
-express-session
-mongoose
-passport
-passport-jwt
-passport-local
