@@ -1,30 +1,44 @@
-placement-Cell
-This placement cell web application is created for users/employees to manage interviews of students, and allocate students to companies` interviews.
-It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
+# Placement Cell Web Application
 
-⚙️ Functionality
-User/Employee signUp and signIn
-Add student
-Delete student
-Allocate added student to the interview
-Deallocate the student from an interview
-Update user profile
-Download the CSV report
-How to run it on your local system
-Fork the project
-Clone the forked repository in your local system
-run the command on your terminal npm install to install all dependencies
-run the command on your terminal npm start to start the server running on the port 8000
-now then just go and type localhost:8000 on your system then it will run fine
-Tools Used
-NodeJS
-MongoDB
-ExpressJS
-EJS
-Bootstrap
-Libraries Used:
-connect-mongo
-cookie-parser
+This web application is designed for users/employees to manage student interviews and allocate students to company interviews. It's built using NodeJs, ExpressJs, MongoDB, EJS, and JavaScript.
+
+## ⚙️ Functionality
+
+- **User/Employee Sign Up and Sign In**
+- **Add Student:** Add new students to the system.
+- **Delete Student:** Remove students from the database.
+- **Allocate Student to Interview:** Assign students to specific interview slots.
+- **Deallocate Student from Interview:** Remove a student from an assigned interview.
+- **Update User Profile:** Modify user details.
+- **Download CSV Report:** Generate and download a report in CSV format.
+
+## How to Run Locally
+
+1. Fork the project.
+2. Clone the forked repository to your local system.
+3. Run `npm install` in your terminal to install all dependencies.
+4. Run `npm start` to start the server on port 8000.
+5. Open your browser and go to `localhost:8000`.
+
+## Tools Used
+
+- **NodeJS**
+- **MongoDB**
+- **ExpressJS**
+- **EJS**
+- **Bootstrap**
+
+## Libraries Used
+
+- **connect-mongo**
+- **cookie-parser**
+
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ejs
 express
 express-ejs-layout
