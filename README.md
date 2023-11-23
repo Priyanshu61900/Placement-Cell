@@ -34,11 +34,7 @@ This web application is designed for users/employees to manage student interview
 
 - **connect-mongo**
 - **cookie-parser**
-
-## Contributing
-
-If you'd like to contribute, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
+- 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
